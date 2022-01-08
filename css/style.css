@@ -316,6 +316,8 @@ a:hover {
 }
 .single-more-item img {
 	margin-bottom: 15px;
+	height: 180px;
+    width: auto;
 }
 .single-more-item h4 {
 	margin-bottom: 10px;
@@ -389,22 +391,22 @@ a:hover {
 .hdr-nav ul li a {
 	padding: 3px 0;
 }
-.slider .large {
-	display: none;
+
+.slider {
+	padding-top: 410px;
+}
+.slider .large img {
+	height: 390px;
 }
 .slider label {
-	display: block;
-	margin-bottom: 10px;
+	
 }
 .slider label img {
-	width: 100%;
-	height: auto;
+	
 }
-.slider {
-	padding-top: 0;
-}
+
 .main-tab label {
-	display: block;
+	padding: 10px 15px;
 }
 .single-more-item {
 	margin: 15px 0;
